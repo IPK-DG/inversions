@@ -1,9 +1,5 @@
 # Detection of large chromosomal inversions with chromsome conformation capture sequencing (Hi-C) data — a usage example
 
-## Contents
-
-- [Usage example](#usage-example)
-
 ## Usage example
 
 1. Load the package `data.table`. This code has been tested with version 1.9.6 and 1.10.4 of `data.table`. More information on `data.table` can be found [here](https://cran.r-project.org/web/packages/data.table/).
